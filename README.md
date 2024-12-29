@@ -1,4 +1,4 @@
-# ♟️ Game Tree Search: Checkers Endgame Solver
+# ♟️ Checkers Endgame Solver
 
 ## 📖 Overview
 This project implements a solver for Checkers endgame puzzles using advanced search techniques like alpha-beta pruning, node ordering, and state caching. Learn more about the fascinating history of Checkers AI in this [article](https://en.wikipedia.org/wiki/Solved_game#Checkers).
